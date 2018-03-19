@@ -10,13 +10,15 @@
 ## Componentes
 1. **Sensores**
 
-  1.1. Analógicos
-    - Acelerómetro
-    - Ultrasonido
+   1.1. Analógicos
+   
+        - Acelerómetro
+        - Ultrasonido
     
   1.2. Digitales
-    - Pulsador
-    - Fototransistores
+       - Pulsador
+       - Fototransistores
+       
 2. **Amplificadores Operacionales**
 
 3. **Componentes Pasivos**
