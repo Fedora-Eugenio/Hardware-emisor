@@ -9,6 +9,7 @@
 
 ## Componentes
 1. **Sensores**
+
    1.1. *Analógicos*
    
         - Acelerómetro
@@ -22,6 +23,7 @@
 2. **Amplificadores Operacionales**
 
 3. **Componentes Pasivos**
+
    3.1. *Resistencias*
   
    3.2. *Capacitores*
@@ -40,4 +42,5 @@
 - **Prototipo Diana-Receptor**
 
 ## Documentación Técnica
-
+- [Acelerómetro](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Low_G_X-Y-Z_Axis_MMA7260Q.pdf)
+- [Ultrasonido](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/srf05tech.pdf)
