@@ -44,3 +44,4 @@
 ## Documentación Técnica
 - [Acelerómetro](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Low_G_X-Y-Z_Axis_MMA7260Q.pdf)
 - [Ultrasonido](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/srf05tech.pdf)
+- [Fototransistores](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/XRNI53W.pdf)
