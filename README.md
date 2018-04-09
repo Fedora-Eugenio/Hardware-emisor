@@ -14,8 +14,7 @@
    
         - Acelerómetro: Utilizado para realizar las interacciones del usuario con el arma.
         
-        Cambio de modos de juego:
-        
+   Cambio de modos de juego:     
  ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
  
         Recarga del arma:
