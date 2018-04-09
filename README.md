@@ -12,13 +12,13 @@
 
    1.1. *Analógicos*
    
-        - Acelerómetro
+        - Acelerómetro: Utilizado para realizar las interacciones del usuario con el arma, recarga y cambio de modos de juego.
         - Ultrasonido
     
    1.2. *Digitales*
    
         - Pulsador
-        - Fototransistores
+        - Fototransistores 
        
 2. **Amplificadores Operacionales**
 
@@ -26,12 +26,32 @@
    
    2.2. [DM74LS04](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/74ls04.pdf)
    
-3. **Componentes Pasivos**
+3. **Componentes**
 
    3.1. *Resistencias*
-         - 5 x 1k \omega
+         - 5 x 1k Ohm
+         - 4 x 200 Ohm
+         - 6 x 15k Ohm
+         - 6 x 22k Ohm
+         - 2 x 330 Ohm
+         - 1 x 240 Ohm
+         
   
    3.2. *Capacitores*
+         - 5 x 10uF
+         - 1 x 100uF
+         
+   3.3. *Diodos*
+         - 5 x BZX55C
+         - 1 x Diodo Verde
+         - 1 x 1N5819
+   
+4. **Reguladores**
+
+   4.1. [LM2940-5](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/LM2940.PDF)
+   
+   4.2. [LM317](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/LM317.pdf)
+         
 
 ## Lista de Módulos
 - **Circuitos de Protección**
@@ -39,8 +59,8 @@
   - Digitales
   
 - **Fuentes Reguladas**
-  - 3V:
-  - 5V:
+  - 3V
+  - 5V
 
 - **Prototipo Arma-Emisor**
 
