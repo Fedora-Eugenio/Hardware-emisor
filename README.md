@@ -12,7 +12,7 @@
 
    1.1. *Analógicos*
    
-      - **Acelerómetro**: Utilizado para realizar las interacciones del usuario con el arma.
+      - **Acelerómetro**: Utilizado para realizar las interacciones del usuario con el arma. Dichas interacciones serán las siguientes:
         
         *Cambio de modos de juego:*   
         
@@ -23,20 +23,13 @@
         
         ![Recarga](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Recarga.jpg) 
         
-   
- 
-  
 
+   - **Ultrasonido**: Con este sensor se podrá medir la distancia, entre el arma (emisor) y la diana (receptor), la cual afectará al puntaje, siendo esta un factor multiplicativo. 
    
-     
-        
-
-   - **Ultrasonido**:
-    
    1.2. *Digitales*
    
-   - **Pulsador**:
-   - **Fototransistores**:
+   - **Pulsador**: Utilizado como el gatillo del arma.
+   - **Fototransistores**: Serán usados como los receptores del haz de luz emitido por el láser y actuarán como blancos de disparo. Cada fototransistor irá acompañado de una resistencia de 1k Ohm en paralelo como se muestra en el siguiente esquemático:
        
 2. **Amplificadores Operacionales**
 
@@ -88,6 +81,8 @@
 - **Prototipo Diana-Receptor**
 
 ![silueta2](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/silueta2.jpg) 
+
+   Cada círculo rojo representa la ubicación de los fototransistores en la diana real. 
 
 ## Documentación Técnica
 - [Acelerómetro](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Low_G_X-Y-Z_Axis_MMA7260Q.pdf)
