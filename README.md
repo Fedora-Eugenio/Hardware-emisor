@@ -15,7 +15,14 @@
         - Acelerómetro: Utilizado para realizar las interacciones del usuario con el arma.
         
         Cambio de modos de juego:
-        ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
+        
+ ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
+ 
+        Recarga del arma:
+        
+        
+         
+        
         
         - Ultrasonido
     
@@ -77,3 +84,5 @@
 - [Acelerómetro](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Low_G_X-Y-Z_Axis_MMA7260Q.pdf)
 - [Ultrasonido](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/srf05tech.pdf)
 - [Fototransistores](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/XRNI53W.pdf)
+
+
