@@ -39,26 +39,22 @@
    
 3. **Componentes**
 
-   3.1. *Resistencias*
-   
-        - 5 x 1k Ohm
-        - 4 x 200 Ohm
-        - 6 x 15k Ohm
-        - 6 x 22k Ohm
-        - 2 x 330 Ohm
-        - 1 x 240 Ohm
+   3.1. *Resistencias* 
+      - 5 x 1k Ohm
+      - 4 x 200 Ohm
+      - 6 x 15k Ohm
+      - 6 x 22k Ohm
+      - 2 x 330 Ohm
+      - 1 x 240 Ohm
          
-  
-   3.2. *Capacitores*
-   
-         - 5 x 10uF
-         - 1 x 100uF
+   3.2. *Capacitores*  
+      - 5 x 10uF
+      - 1 x 100uF
          
-   3.3. *Diodos*
-   
-         - 5 x BZX55C
-         - 1 x Diodo Verde
-         - 1 x 1N5819
+   3.3. *Diodos*   
+      - 5 x BZX55C
+      - 1 x Diodo Verde
+      - 1 x 1N5819
    
 4. **Reguladores**
 
