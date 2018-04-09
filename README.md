@@ -12,8 +12,11 @@
 
    1.1. *Analógicos*
    
-        - Acelerómetro: Utilizado para realizar las interacciones del usuario con el arma, recarga y 
-        cambio de modos de juego.
+        - Acelerómetro: Utilizado para realizar las interacciones del usuario con el arma.
+        
+        Cambio de modos de juego:
+        ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
+        
         - Ultrasonido
     
    1.2. *Digitales*
