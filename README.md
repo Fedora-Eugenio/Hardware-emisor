@@ -14,11 +14,21 @@
    
       - **Acelerómetro**: Utilizado para realizar las interacciones del usuario con el arma.
         
-   Cambio de modos de juego:     
- ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
+        *Cambio de modos de juego:*   
+        
+        ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
+        
+        
+        *Recarga del arma:*
+        
+        ![Recarga](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Recarga.jpg) 
+        
+   
  
-   Recarga del arma:
- ![Recarga](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Recarga.jpg)     
+  
+
+   
+     
         
 
    - **Ultrasonido**:
@@ -76,6 +86,8 @@
 - **Prototipo Arma-Emisor**
 
 - **Prototipo Diana-Receptor**
+
+![silueta2](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/silueta2.jpg) 
 
 ## Documentación Técnica
 - [Acelerómetro](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Low_G_X-Y-Z_Axis_MMA7260Q.pdf)
