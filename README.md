@@ -12,23 +12,21 @@
 
    1.1. *Analógicos*
    
-        - Acelerómetro: Utilizado para realizar las interacciones del usuario con el arma.
+      - **Acelerómetro**: Utilizado para realizar las interacciones del usuario con el arma.
         
    Cambio de modos de juego:     
  ![ModoJuego](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/ModoJuego.jpg)
  
-        Recarga del arma:
+   Recarga del arma:
+ ![Recarga](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Recarga.jpg)     
         
-        
-         
-        
-        
-        - Ultrasonido
+
+   - **Ultrasonido**:
     
    1.2. *Digitales*
    
-        - Pulsador
-        - Fototransistores 
+   - **Pulsador**:
+   - **Fototransistores**:
        
 2. **Amplificadores Operacionales**
 
