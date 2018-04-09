@@ -22,9 +22,14 @@
        
 2. **Amplificadores Operacionales**
 
+   2.1. [LM324N](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/LM324.pdf)
+   
+   2.2. [DM74LS04](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/74ls04.pdf)
+   
 3. **Componentes Pasivos**
 
    3.1. *Resistencias*
+         - 5 x 1k \omega
   
    3.2. *Capacitores*
 
