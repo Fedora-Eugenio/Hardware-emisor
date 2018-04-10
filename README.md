@@ -68,11 +68,18 @@
 ## Lista de Módulos
 - **Circuitos de Protección**
   - Analógicos
+  
+  ![Proteccion Analogica](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Proteccion%20Analogica.PNG) 
+  
   - Digitales
   
+  ![Proteccion Digital](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Proteccion%20Digital.PNG) 
+  
+  
 - **Fuentes Reguladas**
-  - 3V
-  - 5V
+  - 5V y 3V
+  
+  ![Fuentes Reguladoras](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Fuentes%20Reguladoras.PNG) 
 
 - **Prototipo Arma-Emisor**
 
