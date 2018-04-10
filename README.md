@@ -1,7 +1,7 @@
 # Hardware
 
 ## Descripción
-
+   Módulo descriptivo del hardware del proyecto, se incluyen los sensores utilizados, con sus respectivos datasheets, circuitos de protección para dichos sensores, componentes de cada bloque de circuitos y el diagrama y montaje tanto del emisor (arma) como del receptor (diana).
 
 ## Tabla de Contenidos
 - [Componentes](#componentes)
