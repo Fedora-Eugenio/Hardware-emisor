@@ -79,7 +79,7 @@
 - **Fuentes Reguladas**
   - 5V y 3V
   
-  ![Fuentes Reguladoras](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Fuentes%20Reguladoras.PNG) 
+  ![Fuentes reguladoras](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Fuentes%20reguladoras.PNG) 
 
 - **Prototipo Arma-Emisor**
 
