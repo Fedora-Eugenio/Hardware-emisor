@@ -7,7 +7,7 @@
 - [Componentes](#componentes)
 - [Lista de Módulos](#lista-de-módulos)
 - [Documentación Técnica](#documentación-técnica)
-- [Caracterización de los sensores](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/Caracterizaci%C3%B3n%20de%20sensores.md)
+- [Caracterización de los sensores](https://github.com/Fedora-Eugenio/Documentacion/blob/master/CARACTERIZACI%C3%93N%20DE%20LOS%20SENSORES.docx)
 
 ## Componentes
 1. **Sensores**
