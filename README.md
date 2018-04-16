@@ -83,6 +83,12 @@
 
 - **Prototipo Arma-Emisor**
 
+![IMG_20180415_213101](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/IMG_20180415_213101.jpg)
+
+![IMG_20180415_213111](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/IMG_20180415_213111.jpg)
+
+![IMG_20180415_213125](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/IMG_20180415_213125.jpg)
+
 - **Prototipo Diana-Receptor**
 
 ![silueta2](https://github.com/Fedora-Eugenio/Hardware-emisor/blob/master/silueta2.jpg) 
